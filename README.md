@@ -39,7 +39,8 @@ Các thư viện
 
 
 ## 🚀 Hướng dẫn sử dụng
-1. **🔐 Ký file**:
+# 1. **🔐 Ký file**:
+
 1.1. Truy cập tab "Ký & Xác minh"
 
 1.2. Chọn file bạn muốn ký.
@@ -56,7 +57,7 @@ Các thư viện
 
 ✅ File khóa công khai (.pem)
 
-2. **✅ Xác minh chữ ký**
+# 2. **✅ Xác minh chữ ký**
 
 2.1. Truy cập tab "Ký & Xác minh"
 
@@ -70,7 +71,7 @@ Các thư viện
 
 2.3. Nhấn nút "Xác minh" để kiểm tra tính toàn vẹn và nguồn gốc file.
 
-3. **🌐 Truyền file qua mạng**
+# 3. **🌐 Truyền file qua mạng**
 3.1. Truy cập tab "Gửi File"
 
 3.2. Nhập địa chỉ IP và cổng của máy nhận (máy đó phải đang chạy ứng dụng này).
