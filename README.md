@@ -47,15 +47,15 @@ Các thư viện
 
 1.3. Hệ thống sẽ:
 
-Tự động sinh khóa RSA.
+- Tự động sinh khóa RSA.
 
-Tạo và lưu 3 file:
+- Tạo và lưu 3 file:
 
-+ File gốc
+➕File gốc
 
-+ File chữ ký số (.sig)
+➕File chữ ký số (.sig)
 
-+ File khóa công khai (.pem)
+➕File khóa công khai (.pem)
 
 ####  2. **✅ Xác minh chữ ký**
 
