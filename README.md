@@ -47,9 +47,9 @@ Các thư viện
 
 1.3. Hệ thống sẽ:
 
-- Tự động sinh khóa RSA.
+Tự động sinh khóa RSA.
 
-- Tạo và lưu 3 file:
+Tạo và lưu 3 file:
 
 + File gốc
 
