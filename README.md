@@ -24,8 +24,8 @@ Gửi đồng thời file gốc, chữ ký và public key đến địa chỉ IP
 ## Các bước cài đặt
 ### ⚙️ Hướng dẫn cài đặt
 #### 📌 Yêu cầu
-Python 3.x
-Các thư viện
+- Python 3.x
+- Các thư viện
 1.  **Cài đặt thư viện:**
     ```bash
     pip install Flask rsa requests Werkzeug 
